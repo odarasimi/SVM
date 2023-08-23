@@ -1,2 +1,2 @@
-# SVM
-Basic SVM implementation from scratch 
+## SVM
+Naive SVM implementation from scratch 
